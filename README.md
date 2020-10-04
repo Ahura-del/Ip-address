@@ -1,3 +1,3 @@
 # Ip-address
 
-get ip your address with api 
+get your ip address with api 
