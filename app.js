@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded" , () => {
   async function getIp(url) {
     let response = await fetch(url);
     let data = await response.json();
